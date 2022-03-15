@@ -1,0 +1,1 @@
+web: gunicorn mmcastro.wsgi --log-file –
